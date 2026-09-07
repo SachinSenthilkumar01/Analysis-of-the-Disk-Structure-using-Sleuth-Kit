@@ -83,12 +83,5 @@ Disk Structure Analysis Results
 <img width="423" height="217" alt="Screenshot 2026-08-21 223508" src="https://github.com/user-attachments/assets/647350a4-9cb1-42c0-bc3e-a508e4dab322" />
 
 
-
-
-
-
-
-
-
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
